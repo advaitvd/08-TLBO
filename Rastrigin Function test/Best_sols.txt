@@ -1,0 +1,11 @@
+-7.97752036e-08,  5.88744760e-08,  2.53641858e-08, -1.42022736e-07, 3.56336357e-09
+Rastrigin function with 5 variables.
+Population size=25, number of max iterations=500
+
+
+-1.94985430e-09, -1.87589468e-10
+Rastrigin function with 2 variables.
+Population size=20, number of max iterations=100
+
+
+20 times. maxiter=1500, population_size=50
